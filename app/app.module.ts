@@ -7,10 +7,10 @@ import { AppComponent } from './app.component';
     BrowserModule
   ],
   declarations: [
-    AppModule
+    AppComponent
   ],
   bootstrap: [
-    AppModule
+    AppComponent
   ]
 })
 export class AppModule {}
